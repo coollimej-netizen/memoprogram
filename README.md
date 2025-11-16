@@ -77,7 +77,7 @@
     <h1>📝 메모 프로그램</h1>
     <h2>가볍고 빠른 일정 & 메모 관리 프로그램</h2>
 
-    <a href="MemoSetup.exe" class="download-btn" download>
+    <a href="check list.exe" class="download-btn" download>
         ⬇ 다운로드 (Windows)
     </a>
 
@@ -90,11 +90,6 @@
         • 프로그램 재설치 시 자동 복원<br>
         • 단순하고 빠른 UI
     </div>
-
-    <footer>
-        Made with ❤️ by 지현<br>
-        문제가 있으면 GitHub Issue 또는 연락 주세요.
-    </footer>
 </div>
 
 </body>
