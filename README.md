@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>메모 프로그램 다운로드</title>
+<title>체크리스트 프로그램 다운로드</title>
 
 <style>
     body {
@@ -63,19 +63,13 @@
         line-height: 1.7;
         font-size: 15px;
     }
-
-    footer {
-        margin-top: 40px;
-        color: #666;
-        font-size: 14px;
-    }
 </style>
 </head>
 <body>
 
 <div class="container">
-    <h1>📝 메모 프로그램</h1>
-    <h2>가볍고 빠른 일정 & 메모 관리 프로그램</h2>
+    <h1>📝 체크리스트 프로그램</h1>
+    <h2>할 일 관리 & 일정 메모 도구</h2>
 
     <a href="check list.exe" class="download-btn" download>
         ⬇ 다운로드 (Windows)
@@ -87,7 +81,7 @@
         • 카테고리별 메모 정리<br>
         • 파일 경로 저장 지원<br>
         • JSON로 자동 백업 저장<br>
-        • 프로그램 재설치 시 자동 복원<br>
+        • 재부팅해도 자동 실행<br>
         • 단순하고 빠른 UI
     </div>
 </div>
