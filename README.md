@@ -71,7 +71,7 @@
     <h1>📝 체크리스트 프로그램</h1>
     <h2>할 일 관리 & 일정 메모 도구</h2>
 
-    <a href="cat memo1.0.exe" class="download-btn" download>
+    <a href="애용프로그램.zip" class="download-btn" download>
         ⬇ 다운로드 (Windows)
     </a>
 
